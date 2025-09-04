@@ -1,26 +1,15 @@
-### Hi there 👋
+Hello, I'm Luis Gleidson! 👋
+Welcome to my GitHub profile! I'm a data enthusiast with a focus on Python and Data Science. I study these areas as a hobby, always eager to learn more about data analysis, visualization, and machine learning.
+📌 About Me
 
-Olá, eu sou Luis Gleidson! 👋
+💻 Passionate about technology and data
+📚 Studying Python and Data Science
+🔍 Enthusiast in exploring data-driven solutions
 
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta na área de dados, com foco em Python e Ciência de Dados. Estudo essas áreas por hobby aprimoramento na minha área de planejamento de materiais, produção, projetos, sempre buscando aprender mais sobre análise de dados, visualização e machine learning.
-
-📌 Sobre Mim
-
-
-💻 Apaixonado por tecnologia e dados
-
-📚 Estudando Python e Ciência de Dados
-
-🔍 Entusiasta em explorar soluções baseadas em dados
-
-📬 Conecte-se comigo
-
+📬 Connect with Me
 
 LinkedIn
+https://www.linkedin.com/in/luisgleidsonoliveirapereira/
 
-https://www.linkedin.com/in/luisgleidsonoliveirapereira
-
-
-🚀 Projetos
-
-Aqui você encontrará meus projetos relacionados a Python, Ciência de Dados e outras experimentações. Fique à vontade para explorar e contribuir!
+🚀 Projects
+Here you'll find my projects related to Python, Data Science, and other experiments. Feel free to explore and contribute!
