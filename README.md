@@ -4,8 +4,11 @@ Welcome to my GitHub profile! I'm a data enthusiast with a focus on Python and D
 📌 About Me
 
 💻 Passionate about technology and data
+
 📚 Studying Python and Data Science
+
 🔍 Enthusiast in exploring data-driven solutions
+
 
 📬 Connect with Me
 
