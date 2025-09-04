@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a data enthusiast with a focus on Python and D
 📬 Connect with Me
 
 LinkedIn
+
 https://www.linkedin.com/in/luisgleidsonoliveirapereira/
 
 🚀 Projects
+
 Here you'll find my projects related to Python, Data Science, and other experiments. Feel free to explore and contribute!
